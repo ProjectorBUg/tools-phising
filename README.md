@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
+  <a href="https://github.com/ahmadchenwangxuesi"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
 </p>
 
 # AVAILABLE TUNNELLING OPTIONS**
@@ -23,7 +23,7 @@
 3) NGROK (https://ngrok.com/)
 
 # SCREENSHOT (Kali-linux)
-![Shot](https://github.com/404-ghost/deadpool/blob/master/screenshort.png)
+![Shot](https://github.com/ProjectorBUg/tools-phising/blob/master/screenshort.png)
 ### TESTED ON FOLLOWING:-
 * **Kali Linux - Rolling Edition**
 * **Parrot OS - Rolling Edition**
